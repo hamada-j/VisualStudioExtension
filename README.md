@@ -1,5 +1,7 @@
 # VisualStudioExtension
 
+![alt text](./icon.png)
+
 Visual Studio Extension Snippet Html for start a project with all metadata.
 
 # hamada4snippets
