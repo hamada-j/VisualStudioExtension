@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # VisualStudioExtension
+
 Visual Studio Extension Snippet Html for start a project with all metadata.
-=======
+
 # hamada4snippets
 
 This is extension will give you a HTML project for starte ready with all importante metadata.
@@ -50,4 +50,5 @@ Fixed issue #.
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 
 **Enjoy!**
->>>>>>> First commit
+
+---new
