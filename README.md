@@ -52,5 +52,3 @@ Fixed issue #.
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 
 **Enjoy!**
-
----new.--
